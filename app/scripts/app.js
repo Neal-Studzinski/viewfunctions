@@ -1,7 +1,11 @@
 import Store from './store.js'
 
 export default function app() {
+
   //All of your code starts here
+  //let blogPostView = function() {
+  
+
 
   //Example of the most minimal view possible.
   let defaultView = `<h1>Hello World!</h1>`
